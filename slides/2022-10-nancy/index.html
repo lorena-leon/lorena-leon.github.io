@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wowchemy 5.6.0 for Hugo">
+
+  
+    <link rel="manifest" href="/manifest.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://lorena-leon.github.io/slides/2022-10-nancy/">
+
+  <title>Numerical simulations for the (augmented) multiplicative coalescent | Lorena Leon</title>
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/simple.min.css">
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h2 id="simulations-for-the-augmented-multiplicative-coalescent">Simulations for the (augmented) multiplicative coalescent</h2>
+<!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) -->
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="heading"></h2>
+<p>$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.</p>
+<ul>
+<li>
+<p>$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,</p>
+</li>
+<li>
+<p>$\big( \pmb{X}(t), t \ge 0  \big) $ is a realization of an eternal multiplicative coalescent.</p>
+</li>
+</ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-w_ts--ws---fracs22--t-s-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$W_t(s) = W(s) - \frac{s^2}{2} &#43; t s$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp 400w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_486886bfb909846f9cb90fe5105a8393.webp 760w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$
+    </figcaption></figure>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_8fd0ede04759cc9bc42a40dc9feb3da1.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    </figcaption></figure>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="heading-1"></h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Iorjq4Rdb2E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="heading-2"></h2>
+<ul>
+<li>$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$,</li>
+<li>$X_i(t)$: $i$th largest excursion above zero,</li>
+<li>$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion.</li>
+</ul>
+<p>$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_f8dc8b368270d51031a25331002a0e4e.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    </figcaption></figure>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="heading-3"></h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/i2YsO7YzC78" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="thanks-for-your-attention">Thanks for your attention!</h1>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+  
+
+  
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>

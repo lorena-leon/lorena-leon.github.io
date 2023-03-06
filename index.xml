@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorena Leon</title>
+    <link>https://lorena-leon.github.io/</link>
+      <atom:link href="https://lorena-leon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lorena Leon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorena-leon.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Lorena Leon</title>
+      <link>https://lorena-leon.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
+      <link>https://lorena-leon.github.io/publication/1icip_22/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/1icip_22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://lorena-leon.github.io/cv/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/cv/</guid>
+      <description>&lt;!-- You can download the PDF version &lt;a href=&#34;https://lorena-leon.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;. --&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2019-2022) PhD Computer Sciences, &lt;em&gt;Université de Toulouse&lt;/em&gt;, France&lt;/li&gt;
+&lt;li&gt;(2016-2019) MSc Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;li&gt;(2012-2016) BSc Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications-in-journals&#34;&gt;Publications in Journals&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;(2022) &lt;strong&gt;L. Leon&lt;/strong&gt;, H. Wendt, J.-Y. Tourneret and P. Abry, &lt;em&gt;A Bayesian Framework for Multivariate Multifractal Analysis&lt;/em&gt; (published in &lt;a href=&#34;https://ieeexplore.ieee.org/document/9810494&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TSP&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications-in-conferences&#34;&gt;Publications in Conferences&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conferences-and-talks&#34;&gt;Conferences and Talks&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h3 id=&#34;computational&#34;&gt;Computational&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computing: MATLAB, Python &lt;i class=&#34;fa-brands fa-python&#34;&gt;&lt;/i&gt;, Wolfram Mathematica&lt;/li&gt;
+&lt;li&gt;Design: LaTeX&lt;/li&gt;
+&lt;li&gt;Other: &lt;i class=&#34;fa-brands fa-git&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spanish (native)&lt;/li&gt;
+&lt;li&gt;English (fluent)&lt;/li&gt;
+&lt;li&gt;French (fluent)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
+      <link>https://lorena-leon.github.io/publication/0tsp_22/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/0tsp_22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations for the (augmented) multiplicative coalescent</title>
+      <link>https://lorena-leon.github.io/slides/2022-10-nancy/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/slides/2022-10-nancy/</guid>
+      <description>&lt;h2 id=&#34;simulations-for-the-augmented-multiplicative-coalescent&#34;&gt;Simulations for the (augmented) multiplicative coalescent&lt;/h2&gt;
+&lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$\big( \pmb{X}(t), t \ge 0  \big) $ is a realization of an eternal multiplicative coalescent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp 400w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_486886bfb909846f9cb90fe5105a8393.webp 760w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lorena-leon.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      $W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_8fd0ede04759cc9bc42a40dc9feb3da1.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lorena-leon.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Iorjq4Rdb2E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$,&lt;/li&gt;
+&lt;li&gt;$X_i(t)$: $i$th largest excursion above zero,&lt;/li&gt;
+&lt;li&gt;$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_f8dc8b368270d51031a25331002a0e4e.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://lorena-leon.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/i2YsO7YzC78&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;thanks-for-your-attention&#34;&gt;Thanks for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lorena-leon.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
