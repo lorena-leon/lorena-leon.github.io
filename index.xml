@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorena Leon</title>
+    <link>https://lorena-leon.github.io/</link>
+      <atom:link href="https://lorena-leon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lorena Leon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorena-leon.github.io/media/icon_hu5be1f40e3c12fb7dd5192524e54b13c3_17557_512x512_fill_lanczos_center_3.png</url>
+      <title>Lorena Leon</title>
+      <link>https://lorena-leon.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
+      <link>https://lorena-leon.github.io/publication/icip_22/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/icip_22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Bayesian Estimators for the Parameters of the Bivariate Multifractal Spectrum</title>
+      <link>https://lorena-leon.github.io/publication/eusipco_22/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/eusipco_22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://lorena-leon.github.io/cv/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/cv/</guid>
+      <description>&lt;!-- You can download the PDF version &lt;a href=&#34;https://lorena-leon.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;. --&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2019-2022) PhD. Computer Sciences, &lt;em&gt;Université de Toulouse&lt;/em&gt;, France&lt;/li&gt;
+&lt;li&gt;(2016-2019) MSc. Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;li&gt;(2012-2016) BSc. Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;honors-and-awards&#34;&gt;Honors and awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2019) Fellowship &lt;strong&gt;CARMIN-IHP-CIMPA&lt;/strong&gt; laureate of &lt;a href=&#34;https://imaging-in-paris.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The mathematics of imaging&lt;/a&gt; research program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- 
+## Publications
+
+1. (2022) **L. Leon**, H. Wendt, J.-Y. Tourneret and P. Abry, *A Bayesian Framework for Multivariate Multifractal Analysis* (published in [TSP](https://ieeexplore.ieee.org/document/9810494)) 
+
+* * *
+
+## Publications in Conferences
+
+# Internacional
+
+3. (2022) H. Wendt, L. Leon, J. -Y. Tourneret and P. Abry, *Multifractal Anomaly Detection in Images via Space-Scale Surrogates*,
+(published in [IEEE International Conference on Image Processing (ICIP)](https://ieeexplore.ieee.org/document/9897659)) 
+ 
+* * * --&gt;
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h3 id=&#34;computational&#34;&gt;Computational&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computing: MATLAB, Python &lt;i class=&#34;fa-brands fa-python&#34;&gt;&lt;/i&gt;, Wolfram Mathematica&lt;/li&gt;
+&lt;li&gt;Design: LaTeX&lt;/li&gt;
+&lt;li&gt;Other: &lt;i class=&#34;fa-brands fa-git&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spanish (native)&lt;/li&gt;
+&lt;li&gt;English (fluent)&lt;/li&gt;
+&lt;li&gt;French (fluent)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
+      <link>https://lorena-leon.github.io/publication/tsp_22/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/tsp_22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of the Parameters of the Bivariate Multifractal Spectrum</title>
+      <link>https://lorena-leon.github.io/publication/eusipco_21/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publication/eusipco_21/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lorena-leon.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List of publications</title>
+      <link>https://lorena-leon.github.io/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/articles/</guid>
+      <description> &lt;!-- ![A photo of my cat](/chachacha.jpg &#34;*Chachachá*, my cat&#34;)
+
+ &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+   &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#journal-papers&#34;&gt;Journal papers&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+ &lt;/details&gt;
+
+
+ You can download the PDF version &lt;a href=&#34;https://lorena-leon.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;. --&gt;
+&lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;
+&lt;p&gt;url= &amp;lsquo;#journal&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://lorena-leon.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/teaching/</guid>
+      <description>&lt;h3 id=&#34;univerity-of-havana&#34;&gt;Univerity of Havana&lt;/h3&gt;
+&lt;!-- - 2018 - 2021 PhD Student Teaching Assistant at Institut National des Sciences Appliquées de Toulouse (INSA-T)
+  - 2020-2021 
+    - Tutorials *Lebesgue Theory and Probability* (3rd year) (lectures by Aldéric Joulin) 
+    - Tutorials *Analysis and Probability* (2nd year)
+  - 2019-2020 
+    - Tutorials *Markov Chains* (3rd year)
+    - Tutorials *Analysis and Probability* (2nd year)
+  - 2019 
+    - Master Course: *Stochastic processes applied to Biology* from Cooperation project in Mathematics France - Cuba (lectures by Miraine Dávila Felipe)
+  - 2018-2019 
+    - Tutorials Mathématiques 2 (1st year) --&gt;
+&lt;ul&gt;
+&lt;li&gt;2018-2019
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mathematical Analysis.&lt;/em&gt; Bachelor Computer Science (1rd year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2016-2018
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Differential Equations.&lt;/em&gt; Bachelor in Chemistry (2nd year)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Linear Algebra.&lt;/em&gt; Bachelor in Chemistry (2nd year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2014-2016
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Differential Equations.&lt;/em&gt; Bachelor in Chemistry (2st year)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Linear Algebra.&lt;/em&gt; Bachelor in Chemistry (2nd year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2014-2015
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Calculus.&lt;/em&gt; Bachelor in Chemistry (1st year )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
