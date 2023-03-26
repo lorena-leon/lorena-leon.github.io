@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://lorena-leon.github.io/sitemap.xml
