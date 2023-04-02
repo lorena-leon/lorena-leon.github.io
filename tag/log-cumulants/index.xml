@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>log-cumulants | Lorena Leon</title>
+    <title>log-cumulants | Lorena León</title>
     <link>https://lorena-leon.github.io/tag/log-cumulants/</link>
       <atom:link href="https://lorena-leon.github.io/tag/log-cumulants/index.xml" rel="self" type="application/rss+xml" />
     <description>log-cumulants</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
+      <title>Multifractal Anomaly Detection in Images via Space-Scale Surrogates</title>
       <link>https://lorena-leon.github.io/publication/icip_22/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/publication/icip_22/</guid>
