@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@InProceedings{LEON_EUSIPCO23,
+  author    = {Leon, Lorena and Wendt, Herwig and Tourneret, Jean-Yves and Abry, Patrice},
+  title     = {A Robust Model and its EM Algorithm for the Estimation of the Multifractality Parameter},
+  booktitle = {31th European Signal Processing Conference (EUSIPCO)},
+  year      = {2023},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
