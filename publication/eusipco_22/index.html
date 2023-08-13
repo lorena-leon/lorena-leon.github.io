@@ -261,6 +261,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XRT91WVZ4K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-XRT91WVZ4K', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1027,7 +1066,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://lorena-leon.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu8b2ac423c05781d105eb799949b48fe3_650803_270x270_fill_q75_lanczos_center.jpg" alt="Lorena León"></a>
+      <a href="https://lorena-leon.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua4523d5541783bef6ad39090917c5421_805045_270x270_fill_q75_lanczos_center.jpg" alt="Lorena León"></a>
     
 
     <div class="media-body">
