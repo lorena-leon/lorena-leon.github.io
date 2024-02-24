@@ -197,22 +197,61 @@
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://lorena-leon.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt and J. -Y. Tourneret, &lt;em&gt;“Bounds for the estimation of matrix-valued parameters of a Gaussian random process”&lt;/em&gt;, Signal Processing, vol. 211, 2023. | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-04254235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.sigpro.2023.109106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0165168423001809?ref=pdf_download&amp;amp;fr=RR-2&amp;amp;rr=85a96a195ee45fc4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.pdf&lt;/a&gt; |&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt, J. -Y. Tourneret and P. Abry, &lt;em&gt;“A Bayesian framework for multivariate multifractal analysis”&lt;/em&gt;, IEEE Transactions on Signal Processing, vol. 70, pp. 3663-3675, 2022. | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03735514v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1109/TSP.2022.3187196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt; | &lt;a href=&#34;https://www.irit.fr/~Herwig.Wendt/data/BAY-MVMFA-MANUSCRIPT-R2-VF-nocolors.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.pdf&lt;/a&gt; |&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt, J. -Y. Tourneret and P. Abry, &lt;em&gt;“A robust model and its EM algorithm for the estimation of the multifractality parameter”&lt;/em&gt;, European Signal Processing Conference (EUSIPCO), Helsinki, Finland, Sept. 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H. Wendt, L. Leon, J. -Y. Tourneret and P. Abry, &lt;em&gt;“Multifractal anomaly detection in images via space-scale surrogates”&lt;/em&gt;, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, Oct. 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt, J.-Y. Tourneret, P. Abry, &lt;em&gt;“Estimation du paramètre de multifractalité : régression linéaire, maximum de vraisemblance ou inférence Bayésienne?”&lt;/em&gt;, XXVIIIème Colloque Francophone de Traitement du Signal et des Images (GRETSI), Nancy, France, Sept. 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt, J. -Y. Tourneret and P. Abry, &lt;em&gt;“A comparison of Bayesian estimators for the parameters of the bivariate multifractal spectrum”&lt;/em&gt;, European Signal Processing Conference (EUSIPCO), Belgrade, Serbia, Aug. 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, H. Wendt, J. -Y. Tourneret and P. Abry, &lt;em&gt;“Bayesian estimation for the parameters of the bivariate multifractal spectrum”&lt;/em&gt;, European Signal Processing Conference (EUSIPCO), Dublin, Ireland, Aug. 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;L. Leon, &lt;em&gt;“Bayesian estimation of the parameters of the joint multifractal spectrum of signals and images”&lt;/em&gt;, Signal and Image Processing. PhD thesis, Institut National Polytechnique de Toulouse, 2022.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://lorena-leon.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/teaching/</guid>
-      <description>&lt;h3 id=&#34;university-of-havana&#34;&gt;University of Havana&lt;/h3&gt;
-&lt;!-- - 2018 - 2021 PhD Student Teaching Assistant at Institut National des Sciences Appliquées de Toulouse (INSA-T)
-  - 2020-2021 
-    - Tutorials *Lebesgue Theory and Probability* (3rd year) (lectures by Aldéric Joulin) 
-    - Tutorials *Analysis and Probability* (2nd year)
-  - 2019-2020 
-    - Tutorials *Markov Chains* (3rd year)
-    - Tutorials *Analysis and Probability* (2nd year)
-  - 2019 
-    - Master Course: *Stochastic processes applied to Biology* from Cooperation project in Mathematics France - Cuba (lectures by Miraine Dávila Felipe)
-  - 2018-2019 
-    - Tutorials Mathématiques 2 (1st year) --&gt;
+      <description>&lt;h3 id=&#34;claude-bernard-lyon-1-university&#34;&gt;Claude Bernard Lyon 1 University&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-2024
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mathematics&lt;/em&gt; at undergraduate level&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-havana&#34;&gt;University of Havana&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;2018-2019
 &lt;ul&gt;
@@ -226,11 +265,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-  &lt;!-- - 2014-2016 
-    - *Differential Equations.* Bachelor in Chemistry (2nd year) 
-    - *Linear Algebra.* Bachelor in Chemistry (2nd year) 
-  - 2014-2015 
-    - *Calculus.* Bachelor in Chemistry (1st year ) --&gt;
 </description>
     </item>
     
