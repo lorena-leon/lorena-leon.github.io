@@ -5,188 +5,12 @@
     <link>https://lorena-leon.github.io/</link>
       <atom:link href="https://lorena-leon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorena León</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://lorena-leon.github.io/media/icon_hu5be1f40e3c12fb7dd5192524e54b13c3_17557_512x512_fill_lanczos_center_3.png</url>
       <title>Lorena León</title>
       <link>https://lorena-leon.github.io/</link>
     </image>
-    
-    <item>
-      <title>A Robust Model and its EM Algorithm for the Estimation of the Multifractality Parameter</title>
-      <link>https://lorena-leon.github.io/publication/eusipco_23/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/eusipco_23/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bounds for the Estimation of Matrix-Valued Parameters of a Gaussian Random Process</title>
-      <link>https://lorena-leon.github.io/publication/sigproc_23/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/sigproc_23/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Estimation of the Parameters of the Joint Multifractal Spectrum of Signals and Images</title>
-      <link>https://lorena-leon.github.io/publication/thesis_22/</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/thesis_22/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Comparison of Bayesian Estimators for the Parameters of the Bivariate Multifractal Spectrum</title>
-      <link>https://lorena-leon.github.io/publication/eusipco_22/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/eusipco_22/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multifractal Anomaly Detection in Images via Space-Scale Surrogates</title>
-      <link>https://lorena-leon.github.io/publication/icip_22/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/icip_22/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimation du paramètre de multifractalité : régression linéaire, maximum de vraisemblance ou inférence Bayésienne ?</title>
-      <link>https://lorena-leon.github.io/publication/gretsi_22/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/gretsi_22/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Bayesian Framework for Multivariate Multifractal Analysis</title>
-      <link>https://lorena-leon.github.io/publication/tsp_22/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/tsp_22/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Estimation of the Parameters of the Bivariate Multifractal Spectrum</title>
-      <link>https://lorena-leon.github.io/publication/eusipco_21/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/publication/eusipco_21/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
     
     <item>
       <title></title>
@@ -202,13 +26,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/publications/</guid>
       <description>&lt;p&gt;All my publications are open access. You can find them either below or in my &lt;a href=&#34;https://scholar.google.com/citations?hl=es&amp;amp;user=RcUb6hUAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; profile.&lt;/p&gt;
-&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab (2024) &lt;em&gt;“A Weighted Hankel Approach and Cramér-Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;.
-| &lt;a href=&#34;http://arxiv.org/abs/2412.07497&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; |&lt;/li&gt;
-&lt;/ol&gt;
 &lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab, &lt;em&gt;“A Weighted Hankel Approach and Cramér-Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;, Computers in Biology and Medicine (to appear in) 2025&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;L. Leon, H. Wendt and J.-Y. Tourneret, &lt;em&gt;“Bounds for the estimation of matrix-valued parameters of a Gaussian random process”&lt;/em&gt;,
 Signal Processing, vol. 211, 2023.
@@ -219,8 +41,11 @@ Signal Processing, vol. 211, 2023.
 | &lt;a href=&#34;https://hal.science/hal-03735514v2/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1109/TSP.2022.3187196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;refereed-conference-papers&#34;&gt;Refereed conference papers&lt;/h2&gt;
+&lt;h2 id=&#34;conference-papers&#34;&gt;Conference papers&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
 | &lt;a href=&#34;https://hal.science/hal-04512626/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;10.1109/ISBI56570.2024.10635385&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
