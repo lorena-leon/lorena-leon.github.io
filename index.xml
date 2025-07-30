@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Events</title>
+      <link>https://lorena-leon.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorena-leon.github.io/events/</guid>
+      <description>&lt;h3 id=&#34;events&#34;&gt;Events&lt;/h3&gt;
+&lt;p&gt;Scientific events where I’ve been part of the organizing comitee:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://lorena-leon.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,7 +39,8 @@
 &lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab, &lt;em&gt;“A Weighted Hankel Approach and Cramér-Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;, Computers in Biology and Medicine (to appear in) 2025&lt;/p&gt;
+&lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“A Weighted Hankel Approach and Cramér&amp;ndash;Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;, Computers in Biology and Medicine, Volume 196, Part B, pp. 110730, 2025.
+| &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0010482525010819/pdfft?md5=f620f18599abe59545c77aa65d0d5f25&amp;amp;pid=1-s2.0-S0010482525010819-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.compbiomed.2025.110730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;L. Leon, H. Wendt and J.-Y. Tourneret, &lt;em&gt;“Bounds for the estimation of matrix-valued parameters of a Gaussian random process”&lt;/em&gt;,
@@ -44,10 +55,10 @@ Signal Processing, vol. 211, 2023.
 &lt;h2 id=&#34;conference-papers&#34;&gt;Conference papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.&lt;/p&gt;
+&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, (to appear in) IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, J. Mamou, D. Kouame and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
+&lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
 | &lt;a href=&#34;https://hal.science/hal-04512626/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;10.1109/ISBI56570.2024.10635385&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -82,11 +93,24 @@ Signal Processing, vol. 211, 2023.
       <link>https://lorena-leon.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/teaching/</guid>
-      <description>&lt;h3 id=&#34;claude-bernard-lyon-1-university&#34;&gt;Claude Bernard Lyon 1 University&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;summer-school-deep-learning-for-medical-imaginghttpsdeepimaging2025sciencesconforg-lyon-france&#34;&gt;Summer School &lt;a href=&#34;https://deepimaging2025.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Deep Learning for Medical Imaging”&lt;/a&gt;, Lyon, France&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;2023-
+&lt;li&gt;21-25 avril 2025
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mathematics&lt;/em&gt; at undergraduate level&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Deep learning for image reconstruction.&lt;/em&gt; Hands-on Lab Session (4h)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;claude-bernard-lyon-1-university&#34;&gt;Claude Bernard Lyon 1 University&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2024-2025
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Fundamentals of Image Processing.&lt;/em&gt; Biomedical Engineering (4th year) at Polytech Lyon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2023-2025
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mathematics.&lt;/em&gt; Bachelor of Technical Studies  in Electrical Engineering and Industrial Computing (1st and 2nd years) at IUT Lyon 1&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
