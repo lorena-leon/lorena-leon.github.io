@@ -55,7 +55,8 @@ Signal Processing, vol. 211, 2023.
 &lt;h2 id=&#34;conference-papers&#34;&gt;Conference papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, (to appear in) IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.&lt;/p&gt;
+&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.
+| &lt;a href=&#34;https://hal.science/hal-05359469v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1109/IUS62464.2025.11201746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
@@ -94,13 +95,20 @@ Signal Processing, vol. 211, 2023.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/teaching/</guid>
       <description>&lt;h3 id=&#34;university-grenoble-alpes&#34;&gt;University Grenoble Alpes&lt;/h3&gt;
+&lt;p&gt;Courses taught at &lt;a href=&#34;https://im2ag.univ-grenoble-alpes.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IM2AG&lt;/a&gt; (UGA) and &lt;a href=&#34;https://ensimag.grenoble-inp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensimag&lt;/a&gt; (INP Grenoble):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fall 2025
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Learning, Probabilities and Causality.&lt;/em&gt; Master in Mathematics and Applications (M2 MSIAM)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Introduction to Artificial Intelligence.&lt;/em&gt; Master in Computer Science (M1 Mosig)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Algorithms problem solving.&lt;/em&gt; Master in Computer Science (M1 Mosig)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Algorithmes : analyse des algorithmes, complexité.&lt;/em&gt; Bachelor in Computer Science (3rd year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Learning, probabilities and causality.&lt;/strong&gt; &lt;em&gt;Master in Mathematics and Applications (M2 MSIAM)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to artificial intelligence.&lt;/strong&gt; &lt;em&gt;Master in Computer Science (M1 Mosig)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Algorithms problem solving.&lt;/strong&gt; &lt;em&gt;Master in Computer Science (M1 Mosig)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Algorithms: analysis and complexity.&lt;/strong&gt; &lt;em&gt;Bachelor in Computer Science (3rd year)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Spring 2026
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Algorithmic problem complexity.&lt;/strong&gt; &lt;em&gt;Master in Computer Science (M1)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introduction to artificial intelligence.&lt;/strong&gt; &lt;em&gt;Engineering Cycle in Mathematical Modelling, Imaging, and Simulation (1st year)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -108,20 +116,20 @@ Signal Processing, vol. 211, 2023.
 &lt;ul&gt;
 &lt;li&gt;21-25 avril 2025
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Deep learning for image reconstruction.&lt;/em&gt; Hands-on Lab Session (4h)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep learning for image reconstruction.&lt;/strong&gt; &lt;em&gt;Hands-on Lab Session (4h)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;claude-bernard-lyon-1-university&#34;&gt;Claude Bernard Lyon 1 University&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;2024-2025
+&lt;li&gt;Spring 2025
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Fundamentals of Image Processing.&lt;/em&gt; Biomedical Engineering (4th year) at Polytech Lyon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fundamentals of Image Processing.&lt;/strong&gt; &lt;em&gt;Biomedical Engineering (4th year) at Polytech Lyon&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2023-2025
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mathematics.&lt;/em&gt; Bachelor of Technical Studies  in Electrical Engineering and Industrial Computing (1st and 2nd years) at IUT Lyon 1&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematics.&lt;/strong&gt; &lt;em&gt;Bachelor of Technical Studies  in Electrical Engineering and Industrial Computing (1st and 2nd years) at IUT Lyon 1&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -129,13 +137,13 @@ Signal Processing, vol. 211, 2023.
 &lt;ul&gt;
 &lt;li&gt;2018-2019
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mathematical Analysis.&lt;/em&gt; Bachelor in Computer Science (1st year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mathematical Analysis.&lt;/strong&gt; &lt;em&gt;Bachelor in Computer Science (1st year)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2016-2018
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Differential Equations.&lt;/em&gt; Bachelor in Chemistry (2nd year)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Linear Algebra.&lt;/em&gt; Bachelor in Chemistry (2nd year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Differential Equations.&lt;/strong&gt; *Bachelor in Chemistry (2nd year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linear Algebra.&lt;/strong&gt; &lt;em&gt;Bachelor in Chemistry (2nd year)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
