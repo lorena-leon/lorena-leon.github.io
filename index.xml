@@ -43,7 +43,7 @@
 | &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0010482525010819/pdfft?md5=f620f18599abe59545c77aa65d0d5f25&amp;amp;pid=1-s2.0-S0010482525010819-main.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.compbiomed.2025.110730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, H. Wendt and J.-Y. Tourneret, &lt;em&gt;“Bounds for the estimation of matrix-valued parameters of a Gaussian random process”&lt;/em&gt;,
+&lt;p&gt;L. Leon, H. Wendt and J.-Y. Tourneret, &lt;em&gt;“Bounds for the estimation of matrix&amp;ndash;valued parameters of a Gaussian random process”&lt;/em&gt;,
 Signal Processing, vol. 211, 2023.
 | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-04254235/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.sigpro.2023.109106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
@@ -55,11 +55,14 @@ Signal Processing, vol. 211, 2023.
 &lt;h2 id=&#34;conference-papers&#34;&gt;Conference papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model-Based Scatterer Estimation Using the Cramér-Rao Bound”&lt;/em&gt;, IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.
+&lt;p&gt;L. Leon, P. Abry, H. Wendt, &lt;em&gt;“Bayesian estimation for the bivariate multifractal spectrum from incomplete data”&lt;/em&gt;, European Signal Processing Conference (EUSIPCO), Bruges, Belgium, Aug. 2026. | pdf | doi |&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L. Leon, A. Basarab, J. Mamou, and P. Muleki Seya, &lt;em&gt;“Performance Analysis of Structure Factor Model&amp;ndash;Based Scatterer Estimation Using the Cramér&amp;ndash;Rao Bound”&lt;/em&gt;, IEEE International Ultrasonics Symposium (IUS), Utrecht, Netherlands, Sept. 2025.
 | &lt;a href=&#34;https://hal.science/hal-05359469v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1109/IUS62464.2025.11201746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“Hankel-based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
+&lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“Hankel&amp;ndash;based spectral method for quantitative acoustic microscopy”&lt;/em&gt;, IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Grece, May 2024.
 | &lt;a href=&#34;https://hal.science/hal-04512626/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;10.1109/ISBI56570.2024.10635385&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -67,7 +70,7 @@ Signal Processing, vol. 211, 2023.
 | &lt;a href=&#34;https://hal.science/hal-04254232v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.23919/EUSIPCO58844.2023.10289972&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;H. Wendt, L. Leon, J.-Y. Tourneret and P. Abry, &lt;em&gt;“Multifractal anomaly detection in images via space-scale surrogates”&lt;/em&gt;, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, Oct. 2022.
+&lt;p&gt;H. Wendt, L. Leon, J.-Y. Tourneret and P. Abry, &lt;em&gt;“Multifractal anomaly detection in images via space&amp;ndash;scale surrogates”&lt;/em&gt;, IEEE International Conference on Image Processing (ICIP), Bordeaux, France, Oct. 2022.
 | &lt;a href=&#34;https://hal.science/hal-03850432v2/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1109/ICIP46576.2022.9897659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi&lt;/a&gt; |&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
