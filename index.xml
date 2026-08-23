@@ -21,63 +21,68 @@
     </item>
     
     <item>
-      <title>Events</title>
-      <link>https://lorena-leon.github.io/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lorena-leon.github.io/events/</guid>
-      <description>&lt;h3 id=&#34;events&#34;&gt;Events&lt;/h3&gt;
-&lt;p&gt;Scientific events where I’ve been part of the organizing comitee:&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>News</title>
       <link>https://lorena-leon.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/news/</guid>
-      <description>&lt;h2 id=&#34;2027&#34;&gt;2027&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[Upcoming — 09/2027] Event Organization.&lt;/strong&gt;&lt;br&gt;
-Student Activities Co-chair for &lt;a href=&#34;https://www.eusipco2027.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EUSIPCO 2027&lt;/strong&gt;&lt;/a&gt; in Darmstadt, Germany.&lt;/p&gt;
+      <description>&lt;p&gt;Selected professional milestones.&lt;/p&gt;
+&lt;h2 id=&#34;2027&#34;&gt;2027&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Upcoming - 09/2027] Event Organization.&lt;/strong&gt;&lt;br&gt;
+Student Activities Co-chair for &lt;a href=&#34;https://www.eusipco2027.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EUSIPCO 2027&lt;/strong&gt;&lt;/a&gt; in Darmstadt, Germany.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[Upcoming — 11/2026] Event Organization.&lt;/strong&gt;&lt;br&gt;
-Co-organizing the 2nd &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt; in Buenos Aires, Argentina.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[08/2026] Conference Paper.&lt;/strong&gt;&lt;br&gt;
-Our paper &lt;em&gt;“Bayesian estimation for the bivariate multifractal spectrum from incomplete data”&lt;/em&gt; will be presented at &lt;a href=&#34;https://eusipco2026.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EUSIPCO 2026&lt;/strong&gt;&lt;/a&gt; in Bruges, Belgium.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[07/2026] Project Funding.&lt;/strong&gt;&lt;br&gt;
-Awarded funding from the &lt;a href=&#34;https://miai-cluster.univ-grenoble-alpes.fr/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MIAI Cluster&lt;/strong&gt;&lt;/a&gt; for the &lt;em&gt;DLxLatAm project&lt;/em&gt;, supporting mobility and accommodation grants for Latin American students attending the &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[05/2026] Special Session Organization.&lt;/strong&gt;&lt;br&gt;
-Co-organized the special session &lt;em&gt;“Scale-free Models and Analysis”&lt;/em&gt; with Herwig Wendt at &lt;strong&gt;ICASSP 2026&lt;/strong&gt; in Barcelona, Spain.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Upcoming - 11/2026] Event Organization.&lt;/strong&gt;&lt;br&gt;
+Co-organizing the 2nd &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt; in Buenos Aires, Argentina.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[08/2026] Conference Paper.&lt;/strong&gt;&lt;br&gt;
+Our paper &lt;em&gt;“Bayesian estimation for the bivariate multifractal spectrum from incomplete data”&lt;/em&gt; will be presented at &lt;a href=&#34;https://eusipco2026.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EUSIPCO 2026&lt;/strong&gt;&lt;/a&gt; in Bruges, Belgium.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[07/2026] Project Funding.&lt;/strong&gt;&lt;br&gt;
+Awarded funding from the &lt;a href=&#34;https://miai-cluster.univ-grenoble-alpes.fr/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MIAI Cluster&lt;/strong&gt;&lt;/a&gt; for the &lt;em&gt;DLxLatAm project&lt;/em&gt;, supporting mobility and accommodation grants for Latin American students attending the &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[05/2026] Special Session Organization.&lt;/strong&gt;&lt;br&gt;
+Co-organized the special session &lt;em&gt;“Scale-free Models and Analysis”&lt;/em&gt; with Herwig Wendt at &lt;strong&gt;ICASSP 2026&lt;/strong&gt; in Barcelona, Spain.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[10/2025] Event Organization.&lt;/strong&gt;&lt;br&gt;
-Co-organized the 1st &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt; in Buenos Aires, Argentina.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[09/2025] New Position.&lt;/strong&gt;&lt;br&gt;
-Joined &lt;strong&gt;Université Grenoble Alpes&lt;/strong&gt; and &lt;strong&gt;GIPSA-lab&lt;/strong&gt; as Associate Professor of Computer Science.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[2025–2027] Research Grant.&lt;/strong&gt;&lt;br&gt;
-The project &lt;em&gt;Advanced Robust Estimation and Performance Bounds&lt;/em&gt; was selected for the &lt;strong&gt;Université Grenoble Alpes research support program for new faculty members&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[07/2025] Journal Paper.&lt;/strong&gt;&lt;br&gt;
-Our paper &lt;a href=&#34;https://doi.org/10.1016/j.compbiomed.2025.110730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“A Weighted Hankel Approach and Cramér&amp;ndash;Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;Computers in Biology and Medicine&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[04/2025] Plenary Talk.&lt;/strong&gt;&lt;br&gt;
-Invited plenary speaker at the &lt;strong&gt;Randomness and Fractals&lt;/strong&gt; meeting in Vannes, France, with the talk &lt;em&gt;“Multivariate Multifractal Parameter Estimation Using Bayesian Inference”&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[01/2025] EURASIP Academy.&lt;/strong&gt;&lt;br&gt;
-Selected as a member of the &lt;a href=&#34;https://academy.eurasip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EURASIP Academy&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[10/2025] Event Organization.&lt;/strong&gt;&lt;br&gt;
+Co-organized the 1st &lt;a href=&#34;https://primavera-dl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Spring School in Deep Learning&lt;/strong&gt;&lt;/a&gt; in Buenos Aires, Argentina.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[2025–2027] Research Grant.&lt;/strong&gt;&lt;br&gt;
+The project &lt;em&gt;Advanced Robust Estimation and Performance Bounds&lt;/em&gt; was selected for the &lt;strong&gt;Université Grenoble Alpes research support program for new faculty members&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[09/2025] New Position.&lt;/strong&gt;&lt;br&gt;
+Joined &lt;strong&gt;Université Grenoble Alpes&lt;/strong&gt; and &lt;strong&gt;GIPSA-lab&lt;/strong&gt; as Associate Professor of Computer Science.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[07/2025] Journal Paper.&lt;/strong&gt;&lt;br&gt;
+Our paper &lt;a href=&#34;https://doi.org/10.1016/j.compbiomed.2025.110730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“A Weighted Hankel Approach and Cramér&amp;ndash;Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;Computers in Biology and Medicine&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[04/2025] Plenary Talk.&lt;/strong&gt;&lt;br&gt;
+Invited plenary speaker at the &lt;strong&gt;Randomness and Fractals&lt;/strong&gt; meeting in Vannes, France, with the talk &lt;em&gt;“Multivariate Multifractal Parameter Estimation Using Bayesian Inference”&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[01/2025] EURASIP Academy.&lt;/strong&gt;&lt;br&gt;
+Selected as a member of the &lt;a href=&#34;https://academy.eurasip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;EURASIP Academy&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[10/2024] Academic Visit.&lt;/strong&gt;&lt;br&gt;
-Research visit at &lt;strong&gt;Weill Cornell Medicine&lt;/strong&gt; in New York, working with the biomedical imaging team on quantitative acoustic microscopy.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[08/2024] Conference Service.&lt;/strong&gt;&lt;br&gt;
-Chaired the &lt;strong&gt;Biomedical Image Processing&lt;/strong&gt; session and coordinated the student volunteer team at &lt;strong&gt;EUSIPCO 2024&lt;/strong&gt; in Lyon, France.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[10/2024] Academic Visit.&lt;/strong&gt;&lt;br&gt;
+Research visit at &lt;strong&gt;Weill Cornell Medicine&lt;/strong&gt; in New York, working with the biomedical imaging team on quantitative acoustic microscopy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[08/2024] Conference Service.&lt;/strong&gt;&lt;br&gt;
+Chaired the &lt;strong&gt;Biomedical Image Processing&lt;/strong&gt; session and coordinated the student volunteer team at &lt;strong&gt;EUSIPCO 2024&lt;/strong&gt; in Lyon, France.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[05/2023] Journal Paper.&lt;/strong&gt;&lt;br&gt;
-Our paper &lt;a href=&#34;https://doi.org/10.1016/j.sigpro.2023.109106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“Bounds for the Estimation of Matrix-Valued Parameters of a Gaussian Random Process”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;Signal Processing&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[03/2023] New Position.&lt;/strong&gt;&lt;br&gt;
-Joined &lt;strong&gt;CREATIS&lt;/strong&gt; and &lt;strong&gt;Université Claude Bernard Lyon 1&lt;/strong&gt; as a postdoctoral research associate, working on data science for quantitative acoustic microscopy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[05/2023] Journal Paper.&lt;/strong&gt;&lt;br&gt;
+Our paper &lt;a href=&#34;https://doi.org/10.1016/j.sigpro.2023.109106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“Bounds for the Estimation of Matrix-Valued Parameters of a Gaussian Random Process”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;Signal Processing&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[03/2023] New Position.&lt;/strong&gt;&lt;br&gt;
+Joined &lt;strong&gt;CREATIS&lt;/strong&gt; and &lt;strong&gt;Université Claude Bernard Lyon 1&lt;/strong&gt; as a postdoctoral research associate, working on data science for quantitative acoustic microscopy.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[12/2022] PhD.&lt;/strong&gt;&lt;br&gt;
-Completed my PhD in Signal Processing at the &lt;strong&gt;National Polytechnic Institute of Toulouse&lt;/strong&gt;, with a thesis on Bayesian estimation for multivariate multifractal analysis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[06/2022] Journal Paper.&lt;/strong&gt;&lt;br&gt;
-Our paper &lt;a href=&#34;https://doi.org/10.1109/TSP.2022.3187196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“A Bayesian framework for multivariate multifractal analysis”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;IEEE Transactions on Signal Processing&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[12/2022] PhD.&lt;/strong&gt;&lt;br&gt;
+Completed my PhD in Signal Processing at the &lt;strong&gt;National Polytechnic Institute of Toulouse&lt;/strong&gt;, with a thesis on Bayesian estimation for multivariate multifractal analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[06/2022] Journal Paper.&lt;/strong&gt;&lt;br&gt;
+Our paper &lt;a href=&#34;https://doi.org/10.1109/TSP.2022.3187196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;“A Bayesian framework for multivariate multifractal analysis”&lt;/em&gt;&lt;/a&gt; was published in &lt;strong&gt;IEEE Transactions on Signal Processing&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[01/2019] Fellowship.&lt;/strong&gt;&lt;br&gt;
-Awarded a &lt;strong&gt;CARMIN–IHP–CIMPA Fellowship&lt;/strong&gt; to participate in the &lt;em&gt;Mathematics of Imaging&lt;/em&gt; thematic program at the Institut Henri Poincaré in Paris.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[01/2019] Fellowship.&lt;/strong&gt;&lt;br&gt;
+Awarded a &lt;strong&gt;CARMIN–IHP–CIMPA Fellowship&lt;/strong&gt; to participate in the &lt;em&gt;Mathematics of Imaging&lt;/em&gt; thematic program at the Institut Henri Poincaré in Paris.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -86,12 +91,13 @@ Awarded a &lt;strong&gt;CARMIN–IHP–CIMPA Fellowship&lt;/strong&gt; to partic
       <link>https://lorena-leon.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/people/</guid>
-      <description>&lt;h2 id=&#34;current-students&#34;&gt;Current students&lt;/h2&gt;
+      <description>&lt;p&gt;If you are interested in a research internship or student project, feel free to &lt;a href=&#34;mailto:lorena.leon@univ-grenoble-alpes.fr&#34;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;current-students&#34;&gt;Current students&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Valdinei Rodrigues Da Conceicao&lt;/strong&gt; (Jun 2026 - Aug. 2026, &lt;strong&gt;intern&lt;/strong&gt;), second-year engineering student at Grenoble INP - Ensimag.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Garrenlus De Souza&lt;/strong&gt; (Feb. 2026 - July 2026, &lt;strong&gt;M2 intern&lt;/strong&gt;), Master 2 Mathematics and Applications at Grenoble INP - Ensimag, co-supervised with Florent Chatelain and Steeve Zozor.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;alumni&#34;&gt;Alumni&lt;/h1&gt;
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Nawal Haidar&lt;/strong&gt; (Feb. 2025 - July 2025, &lt;strong&gt;M2 intern&lt;/strong&gt;), final year of engineering program (M2) at École Centrale de Nantes, co-supervised with Adrian Basarab.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Céleste Tiano&lt;/strong&gt; (July 2024 - Sept. 2024, &lt;strong&gt;intern&lt;/strong&gt;), second-year engineering student at Toulouse INP - ENSEEIHT, co-supervised with Adrian Basarab.&lt;/li&gt;
@@ -105,7 +111,8 @@ Awarded a &lt;strong&gt;CARMIN–IHP–CIMPA Fellowship&lt;/strong&gt; to partic
       <link>https://lorena-leon.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;
+      <description>&lt;p&gt;All my publications are open access. You can find them either below or in my &lt;a href=&#34;https://scholar.google.com/citations?hl=es&amp;amp;user=RcUb6hUAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; profile.&lt;/p&gt;
+&lt;h2 id=&#34;journal-papers&#34;&gt;Journal papers&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;L. Leon, J. Mamou, D. Kouamé and A. Basarab, &lt;em&gt;“A Weighted Hankel Approach and Cramér&amp;ndash;Rao Bound Analysis for Quantitative Acoustic Microscopy Imaging”&lt;/em&gt;, Computers in Biology and Medicine, Volume 196, Part B, pp. 110730, 2025.
@@ -166,7 +173,8 @@ Signal Processing, vol. 211, 2023.
       <link>https://lorena-leon.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lorena-leon.github.io/teaching/</guid>
-      <description>&lt;div style=&#34;
+      <description>&lt;p&gt;Current courses taught at &lt;a href=&#34;https://im2ag.univ-grenoble-alpes.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IM2AG&lt;/a&gt; (UGA) and &lt;a href=&#34;https://ensimag.grenoble-inp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ensimag&lt;/a&gt; (Grenoble INP - UGA).&lt;/p&gt;
+&lt;div style=&#34;
   display:flex;
   align-items:center;
   justify-content:center;
